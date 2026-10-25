@@ -104,6 +104,3 @@ If you don't want to use Gemini or Unsplash, you can modify the code to use:
 - Text Generation: OpenAI API, Hugging Face's free API, local models like GPT-J
 - Image Sources: Free stock photo sites, locally stored images, or DALL-E Mini (Craiyon)
 
-## License
-
-MIT 
